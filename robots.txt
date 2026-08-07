@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /joan-iani-room
+Disallow: /home
 
 Sitemap: https://oanaianuli.com/sitemap.xml
