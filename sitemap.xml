@@ -1,52 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url><loc>https://oanaianuli.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-
-  <url><loc>https://oanaianuli.com/work</loc><changefreq>weekly</changefreq><priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/work"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/projekte"/></url>
-  <url><loc>https://oanaianuli.com/projekte</loc><changefreq>weekly</changefreq><priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/work"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/projekte"/></url>
-
-  <url><loc>https://oanaianuli.com/about</loc><changefreq>monthly</changefreq><priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/about"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/ueber"/></url>
-  <url><loc>https://oanaianuli.com/ueber</loc><changefreq>monthly</changefreq><priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/about"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/ueber"/></url>
-
-  <url><loc>https://oanaianuli.com/contact</loc><changefreq>monthly</changefreq><priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/Kontakt"/></url>
-  <url><loc>https://oanaianuli.com/Kontakt</loc><changefreq>monthly</changefreq><priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/Kontakt"/></url>
-
-  <url><loc>https://oanaianuli.com/joan-iani</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://oanaianuli.com/joan-iani-new-york</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-
-  <url><loc>https://oanaianuli.com/onlinecars</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://oanaianuli.com/icocar</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://oanaianuli.com/ria-bank99</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://oanaianuli.com/artivive</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://oanaianuli.com/weedqueers</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://oanaianuli.com/waterdrop</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://oanaianuli.com/anna-jewelery</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-
-  <url><loc>https://oanaianuli.com/imprint</loc><changefreq>yearly</changefreq><priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/imprint"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/impressum"/></url>
-  <url><loc>https://oanaianuli.com/impressum</loc><changefreq>yearly</changefreq><priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/imprint"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/impressum"/></url>
-
-  <url><loc>https://oanaianuli.com/terms</loc><changefreq>yearly</changefreq><priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/terms"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/agb"/></url>
-  <url><loc>https://oanaianuli.com/agb</loc><changefreq>yearly</changefreq><priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://oanaianuli.com/terms"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://oanaianuli.com/agb"/></url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://oanaianuli.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://oanaianuli.com/home</loc><priority>1.0</priority></url>
+  <url><loc>https://oanaianuli.com/work</loc><priority>0.9</priority></url>
+  <url><loc>https://oanaianuli.com/projekte</loc><priority>0.9</priority></url>
+  <url><loc>https://oanaianuli.com/joan-iani</loc><priority>0.9</priority></url>
+  <url><loc>https://oanaianuli.com/joan-iani-new-york</loc><priority>0.9</priority></url>
+  <url><loc>https://oanaianuli.com/about</loc><priority>0.8</priority></url>
+  <url><loc>https://oanaianuli.com/ueber</loc><priority>0.8</priority></url>
+  <url><loc>https://oanaianuli.com/contact</loc><priority>0.7</priority></url>
+  <url><loc>https://oanaianuli.com/Kontakt</loc><priority>0.7</priority></url>
+  <url><loc>https://oanaianuli.com/imprint</loc><priority>0.3</priority></url>
+  <url><loc>https://oanaianuli.com/impressum</loc><priority>0.3</priority></url>
+  <url><loc>https://oanaianuli.com/terms</loc><priority>0.3</priority></url>
+  <url><loc>https://oanaianuli.com/agb</loc><priority>0.3</priority></url>
 </urlset>
