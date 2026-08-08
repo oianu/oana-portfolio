@@ -1,6 +1,10 @@
 User-agent: *
-Allow: /
-Disallow: /joan-iani-room
-Disallow: /home
+Disallow: /onlinecars
+Disallow: /icocar
+Disallow: /ria-bank99
+Disallow: /artivive
+Disallow: /weedqueers
+Disallow: /waterdrop
+Disallow: /anna-jewelery
 
 Sitemap: https://oanaianuli.com/sitemap.xml
