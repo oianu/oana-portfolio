@@ -6,5 +6,8 @@ Disallow: /artivive
 Disallow: /weedqueers
 Disallow: /waterdrop
 Disallow: /anna-jewelery
+Disallow: /joan-iani-room
+Disallow: /work
+Disallow: /projekte
 
 Sitemap: https://oanaianuli.com/sitemap.xml
